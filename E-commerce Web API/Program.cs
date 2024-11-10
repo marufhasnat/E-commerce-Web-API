@@ -1,4 +1,5 @@
 using E_commerce_Web_API.Controllers;
+using E_commerce_Web_API.Services;
 using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +12,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add service to the controller
 builder.Services.AddControllers();
+
+builder.Services.AddSingleton<CategoryService>();
 
 builder.Services.Configure<ApiBehaviorOptions>(options =>
 {
