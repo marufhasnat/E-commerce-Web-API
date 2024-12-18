@@ -1,0 +1,182 @@
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.exe
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.deps.json
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.runtimeconfig.json
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.dll
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.pdb
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.AssemblyInfo.cs
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce Web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets\msbuild.build.E-commerce Web API.props
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce Web API.props
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-commerce Web API.props
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\scopedcss\bundle\E-commerce Web API.styles.css
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commer.3710C19A.Up2Date
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.dll
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\refint\E-commerce Web API.dll
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.pdb
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.genruntimeconfig.cache
+C:\Users\DELL\source\repos\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\ref\E-commerce Web API.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\appsettings.Development.json
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\appsettings.json
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.exe
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.deps.json
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.runtimeconfig.json
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.pdb
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.csproj.AssemblyReference.cache
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.AssemblyInfoInputs.cache
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.AssemblyInfo.cs
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.csproj.CoreCompileInputs.cache
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.MvcApplicationPartsAssemblyInfo.cs
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.MvcApplicationPartsAssemblyInfo.cache
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets.build.json
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets.development.json
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce Web API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets\msbuild.build.E-commerce Web API.props
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce Web API.props
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-commerce Web API.props
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\scopedcss\bundle\E-commerce Web API.styles.css
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commer.3710C19A.Up2Date
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\refint\E-commerce Web API.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.pdb
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.genruntimeconfig.cache
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\ref\E-commerce Web API.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\E-commerce Web API.sourcelink.json
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\E-commerce Web API.staticwebassets.endpoints.json
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce Web API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\C# Projects\E-commerce Web API\E-commerce Web API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\AutoMapper.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Azure.Core.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Azure.Identity.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Humanizer.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.ClientModel.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.CodeDom.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Memory.Data.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# Projects\E-commerce Web API\E-commerce Web API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
